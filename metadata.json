@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Interactive Slider",
+  "description": "A high-performance WebGL interactive slider featuring advanced shader effects like glass, frost, and liquid distortion using Three.js and GSAP.",
+  "requestFramePermissions": []
+}
